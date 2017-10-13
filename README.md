@@ -3,5 +3,6 @@
 ## Setup
 ```
 brew install kubernetes-cli
-brew install helm
+brew install kubernetes-helm
+brew install terraform
 ```
